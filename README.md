@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/chromewillow-greyhack-mcp-server-badge.jpg)](https://mseep.ai/app/chromewillow-greyhack-mcp-server)
+
 # Grey Hack MCP Server
 
 A Model Context Protocol (MCP) server for Grey Hack game development, designed to work with Cursor IDE and other MCP-compatible tools.
